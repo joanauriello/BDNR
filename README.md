@@ -9,7 +9,7 @@ Este repositorio contiene el proyecto final realizado para la materia **Bases de
 
 ## Contenidos del repositorio
 
-- `/data`: Archivos JSON que representan las **tablas originales** del modelo relacional, utilizadas para cargar la base de datos inicial en MongoDB Atlas.
+- `relational_database_data.zip`: Archivos JSON que representan las **tablas originales** del modelo relacional, utilizadas para cargar la base de datos inicial en MongoDB Atlas.
 - `BDNR_2025_Tarea_Final_Auriello_Molina.ipynb`: Notebook principal del proyecto. Contiene las **transformaciones realizadas en Python** para migrar la base de datos relacional a una estructura documental en MongoDB.
 - `Proyecto_Final_Consultas_SQL_para_comparacion.ipynb`: Notebook complementario que contiene las **consultas SQL comparativas** ejecutadas sobre una réplica del modelo relacional cargado en SQLite.
 - `Auriello_Molina_Informe_Final_BDNR.pdf`: Informe final del trabajo, redactado en formato académico, que describe el contexto, decisiones de modelado, transformaciones, consultas y análisis de performance.
